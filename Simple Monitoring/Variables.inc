@@ -13,6 +13,9 @@ SHOW_TOP_PROCESSES=1
 IgnoreProcesses=_Total|Idle|System|Memory Compression|Registry|system|dwm|explorer|csrss|lsass|svchost|spoolsv|wmpnetwk
 ;|ShellExperienceHost|SearchUI|WinStore.App|HxOutlook|SystemSettings|LockApp|YourPhone|WindowsInternal.ComposableShell.Experiences.TextInput.InputApp|MicrosoftEdge|NahimicSvc32|Microsoft.Photos
 
+; Ping address
+PING_ADDRESS=8.8.8.8
+
 ;; Styling
 ; Global
 FontName=Segoe UI

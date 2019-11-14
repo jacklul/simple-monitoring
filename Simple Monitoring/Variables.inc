@@ -14,7 +14,10 @@ IgnoreProcesses=_Total|Idle|System|Memory Compression|Registry|system|dwm|explor
 ;|ShellExperienceHost|SearchUI|WinStore.App|HxOutlook|SystemSettings|LockApp|YourPhone|WindowsInternal.ComposableShell.Experiences.TextInput.InputApp|MicrosoftEdge|NahimicSvc32|Microsoft.Photos
 
 ; Ping address
-PING_ADDRESS=8.8.8.8
+PING_ADDRESS=1.1.1.1
+
+; Afterburner path
+AFTERBURNER_EXE="C:\Program Files (x86)\MSI Afterburner\MSIAfterburner.exe"
 
 ;; Styling
 ; Global
@@ -43,4 +46,11 @@ Network=Network
 Download=Download
 Upload=Upload
 HDDs=Drives
-Tooltip_Open=Open
+
+
+;; Tooltips
+Tooltip_OpenDrive=Open drive
+Tooltip_OpenTaskManager=Open task manager
+Tooltip_OpenAfterburner=Open MSI Afterburner
+Tooltip_OpenThisPC=Open This PC
+Tooltip_OpenNetworkAndSharing=Open Network and sharing center

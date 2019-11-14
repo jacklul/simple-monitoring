@@ -26,6 +26,7 @@ FontColor=255,255,255,220
 FontEffectColor=255,255,255,75
 SolidColor=0,0,0,66
 LineColor=255,255,255,125
+LineColor2=255,255,255,255
 BarColor=255,255,255,133
 BarColorBack=50,50,50,100
 FontEffectColorInv=0,0,0,255
@@ -47,10 +48,15 @@ Download=Download
 Upload=Upload
 HDDs=Drives
 
-
 ;; Tooltips
 Tooltip_OpenDrive=Open drive
 Tooltip_OpenTaskManager=Open task manager
 Tooltip_OpenAfterburner=Open MSI Afterburner
 Tooltip_OpenThisPC=Open This PC
 Tooltip_OpenNetworkAndSharing=Open Network and sharing center
+
+;; Pi-hole addon
+Pihole_AdsBlocked=Blocked
+Pihole_DNSQueries=All queries
+Pihole_DomainsBlocked=On blocklists
+Tooltip_OpenPihole=Open Pi-hole

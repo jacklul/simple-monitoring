@@ -56,7 +56,8 @@ Tooltip_OpenThisPC=Open This PC
 Tooltip_OpenNetworkAndSharing=Open Network and sharing center
 
 ;; Pi-hole addon
+Pihole_Address=http://pi.hole/admin/api.php
+Pihole_UpdateRate=60
 Pihole_AdsBlocked=Blocked
-Pihole_DNSQueries=All queries
-Pihole_DomainsBlocked=On blocklists
+Pihole_DNSQueries=Queries
 Tooltip_OpenPihole=Open Pi-hole

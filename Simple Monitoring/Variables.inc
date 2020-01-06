@@ -46,6 +46,7 @@ none=–
 Network=Network
 Download=Download
 Upload=Upload
+Ping=Ping
 HDDs=Drives
 
 ;; Tooltips

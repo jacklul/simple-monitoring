@@ -61,4 +61,5 @@ Pihole_Address=http://pi.hole
 Pihole_UpdateRate=60
 Pihole_AdsBlocked=Blocked
 Pihole_DNSQueries=Queries
+Pihole_Clients=clients
 Tooltip_OpenPihole=Open Pi-hole

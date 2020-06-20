@@ -48,6 +48,8 @@ Download=Download
 Upload=Upload
 Ping=Ping
 HDDs=Drives
+RecycleBin=Recycle Bin
+RecycleBin_Empty="empty, "
 
 ;; Tooltips
 Tooltip_OpenDrive=Open drive
@@ -55,6 +57,7 @@ Tooltip_OpenTaskManager=Open task manager
 Tooltip_OpenAfterburner=Open MSI Afterburner
 Tooltip_OpenThisPC=Open This PC
 Tooltip_OpenNetworkAndSharing=Open Network and sharing center
+Tooltip_OpenOrEmptyRecycleBin=Open/Empty Recycle Bin
 
 ;; Pi-hole addon
 Pihole_Address=http://pi.hole

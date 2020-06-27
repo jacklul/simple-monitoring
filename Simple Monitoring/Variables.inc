@@ -18,6 +18,7 @@ PING_ADDRESS=1.1.1.1
 
 ; Afterburner path
 AFTERBURNER_EXE="C:\Program Files (x86)\MSI Afterburner\MSIAfterburner.exe"
+RTSS_EXE="C:\Program Files (x86)\RivaTuner Statistics Server\RTSS.exe"
 
 ;; Styling
 ; Global
@@ -55,6 +56,7 @@ RecycleBin_Empty="empty, "
 Tooltip_OpenDrive=Open drive
 Tooltip_OpenTaskManager=Open task manager
 Tooltip_OpenAfterburner=Open MSI Afterburner
+Tooltip_OpenRTSS=Open RivaTuner Statistics Server
 Tooltip_OpenThisPC=Open This PC
 Tooltip_OpenNetworkAndSharing=Open Network and sharing center
 Tooltip_OpenOrEmptyRecycleBin=Open/Empty Recycle Bin
